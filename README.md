@@ -274,7 +274,7 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 **Mustafa Erdem Kaya**
 - Okul Numarası: 2212721009
-- GitHub: [kullanici_adi](https://github.com/erdemkaya4332)
+- GitHub: [erdemkaya4332](https://github.com/erdemkaya4332)
 
 ## 🙏 Teşekkürler
 
